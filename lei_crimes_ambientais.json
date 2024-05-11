@@ -1,0 +1,150 @@
+[
+  {
+    "keywords": ["fauna", "matar", "perseguir", "caçar", "apanhar", "utilizar", "espécimes silvestres"],
+    "informacao": "Art. 29 - Matar, perseguir, caçar, apanhar, utilizar espécimes da fauna silvestre. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["fauna", "procriação", "impedir"],
+    "informacao": "Art. 29 - Impedir a procriação da fauna. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["fauna", "ninho", "abrigo", "criadouro natural", "modificar", "danificar", "destruir"],
+    "informacao": "Art. 29 - Modificar, danificar ou destruir ninho, abrigo ou criadouro natural. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["fauna", "ovos", "larvas", "espécimes silvestres", "vender", "expor", "exportar", "adquirir", "guardar", "cativeiro", "depósito", "utilizar", "transportar"],
+    "informacao": "Art. 29 - Vender, expor a venda, exportar ou adquirir, guardar, ter em cativeiro ou depósito, utilizar ou transportar ovos, larvas ou espécimes da fauna silvestre. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["fauna", "espécime animal", "introduzir", "país", "parecer técnico", "licença", "autoridade competente"],
+    "informacao": "Art. 31 - Introduzir espécime animal no País, sem parecer técnico oficial favorável e licença expedida por autoridade competente. Pena: detenção de três meses a um ano."
+  },
+  {
+    "keywords": ["fauna", "animais silvestres", "domésticos", "domesticados", "abuso", "maus-tratos", "ferir", "mutilar"],
+    "informacao": "Art. 32 - Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados. Pena: detenção de três meses a um ano."
+  },
+  {
+    "keywords": ["fauna aquática", "efluentes", "carreamento", "materiais", "perecimento", "espécimes"],
+    "informacao": "Art. 33 - Provocar, pela emissão de efluentes ou carreamento de materiais, o perecimento de espécimes da fauna aquática. Pena: reclusão, de um a três anos."
+  },
+  {
+    "keywords": ["pesca", "período proibido", "lugares interditados", "órgão competente"],
+    "informacao": "Art. 34 - Pescar em período no qual a pesca seja proibida ou em lugares interditados por órgão competente. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["pesca", "explosivos", "substâncias", "efeito semelhante"],
+    "informacao": "Art. 35 - Pescar mediante a utilização de explosivos ou substâncias que, em contato com a água, produzam efeito semelhante. Pena: reclusão, de um a cinco anos."
+  },
+  {
+    "keywords": ["pesca", "espécies preservadas", "espécimes", "tamanhos permitidos"],
+    "informacao": "Art. 34 - Pescar espécies que devam ser preservadas ou espécimes com tamanhos inferiores aos permitidos. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["pesca", "quantidades permitidas", "aparelhos", "petrechos", "técnicas", "métodos"],
+    "informacao": "Art. 34 - Pescar quantidades superiores às permitidas, ou mediante a utilização de aparelhos, petrechos, técnicas e métodos não permitidos. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["transportar", "comercializar", "beneficiar", "industrializar", "espécimes", "coleta", "apanha", "pesca proibida"],
+    "informacao": "Art. 34 - Transportar, comercializar, beneficiar ou industrializar espécimes provenientes da coleta, apanha e pesca proibidas. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["flora", "floresta", "preservação permanente", "destruir", "danificar"],
+    "informacao": "Art. 38 - Destruir ou danificar floresta considerada de preservação permanente. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["flora", "floresta", "preservação permanente", "cortar árvores"],
+    "informacao": "Art. 39 - Cortar árvores em floresta considerada de preservação permanente. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["flora", "Unidades de Conservação", " Decreto n 99.274", "dano direto", "dano indireto"],
+    "informacao": "Art. 40 - Causar dano direto ou indireto às Unidades de Conservação e às áreas de que trata o art. 27 do Decreto n 99.274, de 6 de junho de 1990. Pena: reclusão, de um a cinco anos."
+  },
+  {
+    "keywords": ["flora", "incêndio", "mata", "floresta"],
+    "informacao": "Art. 41 - Provocar incêndio em mata ou floresta. Pena: reclusão, de dois a quatro anos."
+  },
+  {
+    "keywords": ["flora", "balões", "incêndios", "florestas", "vegetação"],
+    "informacao": "Art. 42 - Fabricar, vender, transportar ou soltar balões que possam provocar incêndios nas florestas e demais formas de vegetação. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["flora", "florestas", "domínio público", "preservação permanente", "extrair", "pedra", "areia", "cal", "minerais"],
+    "informacao": "Art. 44 - Extrair de florestas de domínio público ou consideradas de preservação permanente, sem prévia autorização, pedra, areia, cal ou qualquer espécie de minerais. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["flora", "madeira de lei", "cortar", "carvão"],
+    "informacao": "Art. 45 - Cortar ou transformar em carvão madeira de lei. Pena: detenção de um a dois anos."
+  },
+  {
+    "keywords": ["flora", "madeira", "lenha", "carvão", "produtos vegetais", "comércio", "indústria", "licença", "vendedor"],
+    "informacao": "Art. 46 - Receber ou adquirir, para fins comerciais ou industriais, madeira, lenha, carvão e outros produtos de origem vegetal, sem exigir a exibição de licença do vendedor. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["flora", "regeneração natural", "florestas", "vegetação", "impedir", "dificultar"],
+    "informacao": "Art. 48 - Impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["flora", "plantas ornamentação", "logradouros públicos", "propriedade privada", "destruir", "danificar", "lesar", "maltratar"],
+    "informacao": "Art. 49 - Destruir, danificar, lesar ou maltratar, por qualquer modo ou meio, plantas de ornamentação de logradouros públicos ou em propriedade privada alheia.  Pena: detenção de três meses a um ano."
+  },
+  {
+    "keywords": ["flora", "florestas nativas", "plantadas", "vegetação", "dunas", "destruir", "danificar"],
+    "informacao": "Art. 50 - Destruir ou danificar florestas nativas ou plantadas ou vegetação fixadora de dunas. Pena: detenção de três meses a um ano."
+  },
+  {
+    "keywords": ["flora", "motosserra", "florestas", "vegetação", "comercializar", "utilizar"],
+    "informacao": "Art. 51 - Comercializar motosserra ou utilizá-la em florestas e nas demais formas de vegetação. Pena: detenção de três meses a um ano."
+  },
+  {
+    "keywords": ["Unidades de Conservação", "substâncias", "instrumentos", "caça", "exploração", "produtos florestais", "subprodutos florestais"],
+    "informacao": "Art. 52 - Penetrar em Unidades de Conservação conduzindo substâncias ou instrumentos próprios para caça ou para exploração de produtos ou subprodutos florestais. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["poluição", "danos à saúde humana"],
+    "informacao": "Art. 54 - Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana. Pena: reclusão, de um a quatro anos."
+  },
+  {
+    "keywords": ["recursos minerais", "pesquisa", "lavra", "extração", "autorização"],
+    "informacao": "Art. 55 - Executar pesquisa, lavra ou extração de recursos minerais sem a competente autorização. Pena: detenção de seis meses a um ano."
+  },
+  {
+    "keywords": ["produto tóxico", "substância tóxica", "perigosa", "nociva", "saúde humana", "meio ambiente", "produzir", "processar", "embalar", "importar", "exportar", "comercializar", "fornecer", "transportar", "armazenar", "guardar", "depósito", "usar"],
+    "informacao": "Art. 56 - Produzir, processar, embalar, importar, exportar, comercializar, fornecer, transportar, armazenar, guardar, ter em depósito ou usar produto ou substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente. Pena: reclusão, de um a quatro anos."
+  },
+  {
+    "keywords": ["doença", "praga", "espécies", "danos", "agricultura", "pecuária", "fauna", "flora", "ecossistemas", "disseminar"],
+    "informacao": "Art. 61 - Disseminar doença ou praga ou espécies que possam causar dano à agricultura, à pecuária, à fauna, à flora ou aos ecossistemas. Pena: reclusão, de um a quatro anos."
+  },
+  {
+    "keywords": ["ordenamento urbano", "patrimônio cultural", "bem protegido", "destruir", "inutilizar", "deteriorar"],
+    "informacao": "Art. 62 - Destruir, inutilizar ou deteriorar bem especialmente protegido por lei. Pena: reclusão, de um a três anos."
+  },
+  {
+    "keywords": ["ordenamento urbano", "patrimônio cultural", "edificação", "local protegido", "aspecto", "estrutura", "alterar"],
+    "informacao": "Art. 63 - Alterar o aspecto ou estrutura de edificação ou local especialmente protegido por lei. Pena: reclusão, de um a três anos."
+  },
+  {
+    "keywords": ["ordenamento urbano", "construção", "solo não edificável"],
+    "informacao": "Art. 64 - Promover construção em solo não edificável. Pena: detenção, de seis meses a um ano."
+  },
+  {
+    "keywords": ["ordenamento urbano", "pichar", "grafitar", "conspurcar", "edificação", "monumento urbano"],
+    "informacao": "Art. 65 - Pichar, grafitar ou por outro meio conspurcar edificação ou monumento urbano. Pena: detenção de três meses a um ano."
+  },
+  {
+    "keywords": ["administração ambiental", "afirmação falsa", "enganosa", "omitir", "sonegar", "informações", "dados técnicos", "autorização", "licenciamento ambiental"],
+    "informacao": "Art. 66 - Fazer afirmação falsa ou enganosa, omitir a verdade, sonegar informações ou dados técnicos em procedimentos de autorização ou de licenciamento ambiental. Pena: reclusão, de um a três anos."
+  },
+  {
+    "keywords": ["administração ambiental", "licença", "autorização", "permissão", "normas ambientais"],
+    "informacao": "Art. 67 - Conceder licença, autorização ou permissão em desacordo com as normas ambientais. Pena: reclusão, de um a três anos."
+  },
+  {
+    "keywords": ["administração ambiental", "obrigação", "interesse ambiental", "deixar de cumprir"],
+    "informacao": "Art. 68 - Deixar de cumprir obrigação de relevante interesse ambiental. Pena: detenção de um a três anos."
+  },
+  {
+    "keywords": ["administração ambiental", "ação fiscalizadora", "questões ambientais", "obstar", "dificultar"],
+    "informacao": "Art. 69 - Obstar ou dificultar a ação fiscalizadora do Poder Público no trato de questões ambientais. Pena: detenção de um a três anos."
+  }
+]
