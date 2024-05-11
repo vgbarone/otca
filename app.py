@@ -247,7 +247,7 @@
       "metadata": {
         "id": "nukriY25Bw6J"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     }
   ]
