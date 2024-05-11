@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>OTCA - Onde Tem Crime Ambiental</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      <h1>OTCA - Onde Tem Crime Ambiental</h1>
+    </div>
+    <div class="chat-body">
+      <div class="message bot">
+        <p>Bem-vindo ao OTCA! </p>
+        <p>Este é um protótipo em fase de testes do nosso chatbot, pronto para ajudá-lo com consultas e denúncias de crimes ambientais.</p>
+        <p>As respostas são baseadas na Lei de Crimes Ambientais (Lei nº 9.605/1998).</p>
+      </div>
+    </div>
+    <div class="chat-footer">
+      <textarea id="user-input" placeholder="Digite sua mensagem..."></textarea>
+      <button id="send-btn">Enviar</button>
+      <button id="location-btn">Enviar Localização</button>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>Em caso de dúvidas ou sugestões, entre em contato conosco: <a href="mailto:otca.br@gmail.com">otca.br@gmail.com</a></p>
+  </div>
+
+  <script>
+    var sendBtn = document.getElementById('send-btn');
+    var locationBtn = document.getElementById('location-btn');
+    var userInput = document.getElementById('user-input');
+    var chatBody = document.querySelector('.chat-body');
+
+    sendBtn.addEventListener('click', function() {
+      var mensagem = userInput.value;
+      // Enviar a mensagem para o servidor usando Fetch API
+      // ...
+      userInput.value = '';
+    });
+
+    locationBtn.addEventListener('click', function() {
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(mostrarPosicao);
+      } else {
+        alert("Geolocalização não suportada pelo seu navegador.");
+      }
+    });
+
+    function mostrarPosicao(posicao) {
+      var latitude = posicao.coords.latitude;
+      var longitude = posicao.coords.longitude;
+      // Enviar as coordenadas para o servidor usando Fetch API
+      // ...
+    }
+  </script>
+</body>
+
+</html>
