@@ -40,4 +40,4 @@ Além de esclarecer dúvidas sobre a Lei de Crimes Ambientais, o chatbot foi pro
 
 <H2>Desafios e Realizações</H2>
 
-Infelizmente, o projeto encontrou obstáculos técnicos, o que impediu a implementação completa conforme o planejado e o prazo. No entanto, o repositório otca-realidade mostra o que foi possível alcançar em 48 horas e serve como uma base para futuras melhorias.
+Infelizmente, o projeto encontrou obstáculos técnicos, o que impediu a implementação completa conforme o planejado e o prazo. No entanto, o repositório <b><a href="https://github.com/vgbarone/otca-realidade">otca-realidade</a></b> mostra o que foi possível alcançar em 48 horas e serve como uma base para futuras melhorias.
