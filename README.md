@@ -1,4 +1,4 @@
-<H1> OTCA - Onde Tem Crime Ambiental</H1>
+<H1> OTCA - Onde Tem Crime Ambiental (EXPECTATIVA)</H1>
 
 <H2>Sobre o Projeto</H2>
 
@@ -32,7 +32,7 @@ OTCA (Onde Tem Crime Ambiental) é um chatbot projetado para facilitar o acesso 
 
 <H2>Estrutura do Código</H2>
 
-O código em Python consulta o arquivo lei_crimes_ambientais.json e usa a API google-generativeai para aprimorar e adicionar informações detalhadas nas respostas.
+O código em Python consulta o arquivo lei_crimes_ambientais.json e usa a API google-generativeai para aprimorar e adicionar informações detalhadas nas respostas. Recebe denúncias, armazena os dados no Google Sheets para alimentar Dashboard com mapa no Google Data Studio.
 
 <H2>Objetivos</H2>
 
